@@ -1,5 +1,15 @@
 # hello-rails
 
+## My Thoughts and Reasoning For This application
+
+* I gave skyliner a try after seeing some holes in my logic around test and dev deployment. Before trying skyliner I had a good introductory understanding of things like Docker and locahost, but felt completely drowned when it came to actually deploying the app in a real environment. Obviously I "understood" (in terms of, 'Yes, this deploys to publicly facing servers') things like Heroku, yet I didn't know much more than that.
+
+* I had played around with AWS a decent enough amount in and after my internship so this has helped bridge more of the gap betweem real delpoys and localhost stuff. I'm starting to understand a little bit more about how everything works in regards to DevOps.
+
+* I found this product after listening to Coda Hale's talk on Metrics, I would recommend everyone check it out.
+
+=======================================================================================================================================
+
 This is a demo Ruby on Rails app you can deploy to [Skyliner](https://www.skyliner.io). Here's a guide to getting started:
 
 [https://www.skyliner.io/help/quick-start](https://www.skyliner.io/help/quick-start)
